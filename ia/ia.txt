@@ -1,0 +1,21 @@
+¿Qué es la ia?
+Es una tecnología que permite a las computadoras hacer tareas
+que normalmente requieren a una persona
+
+¿Cómo puede ayudar a un desarrollador?
+Escribiendo código, detectando errores, explicar conceptos,
+generar ideas y automatizar tareas repetitivas
+
+¿Cuáles son sus ventajas y limitaciones?
+
+Ventajas:
+
+	- ahorra tiempo en tareas repetitivas
+	- ayuda a encontrar errores y mejorar el código
+	- facilitar el aprendizaje y la resolución de problemas
+
+Limitaciones:
+
+	- puede generar respuestas incorrectas
+	- no siempre comprende el contexto completo
+	- requiere que una persona revise y valide los resultados
