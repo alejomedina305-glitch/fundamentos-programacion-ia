@@ -1,0 +1,12 @@
+¿Qué es un evento?
+Es una acción o suceso que ocurre y que puede activar una respuesta
+
+¿Dónde se utilizan los eventos?
+En apps y páginas web para detectar las acciones del usuario o del
+sistema
+
+3 Ejemplos:
+
+	1- Hacer click en un botón
+	2- Escribir en un campo de texto
+	3- Mover el cursor del mouse sobre un elemento
