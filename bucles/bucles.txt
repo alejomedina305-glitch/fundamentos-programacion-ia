@@ -1,0 +1,10 @@
+¿Qué es un bucle?
+Es una estructura que repite instrucciones varias veces
+dependiendo de la condición
+
+¿Para qué sirve?
+Para automatizar tareas repetitivas sin tener que escribir
+el mismo código variaas veces
+
+Ejemplo:
+Mostrar el nombre y edad de todas las personas de un arreglo

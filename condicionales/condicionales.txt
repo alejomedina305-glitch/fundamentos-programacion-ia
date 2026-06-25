@@ -1,0 +1,11 @@
+¿Qué es un condicional?
+Es una estructura que permite tomar una decisión según si se
+cumple o n una condición
+
+¿Para qué sirve?
+Sirve para que un programa elija qué acción hacer dependiendo
+de la condición
+
+Ejemplo:
+Si el valor de la variable "edad" es mayor a 18, es que es
+mayor de edad
